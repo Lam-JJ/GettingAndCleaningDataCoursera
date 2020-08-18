@@ -20,9 +20,9 @@ The basic rundown of the script goes as follow:
 
 -----------------------------------------------------
 Variables named in this script includes :
-~The accelerometer and gyroscope signal data variable
-~"subject" = numeric for each individual subject
-~"activity" = character for each activity performed
-~"type" = type of data, namely test and training
+1) The accelerometer and gyroscope signal data variable
+2)"subject" = numeric for each individual subject
+3)"activity" = character for each activity performed
+4)"type" = type of data, namely test and training
 
 Note that only the mean and standard deviation of the signals are in the final mean.df dataframe.
